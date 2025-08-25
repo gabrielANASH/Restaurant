@@ -1,3 +1,4 @@
+![Denmarrk Drive-Inn Restaurant Screenshot](screenshot.png)
 # Restaurant
 
 Welcome to the Restaurant project!
